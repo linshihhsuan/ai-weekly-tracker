@@ -1,0 +1,2 @@
+"""Weekly AI digest package."""
+
